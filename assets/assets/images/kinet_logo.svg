@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3696">
+    <linearGradient
+       id="logoGradient"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#367d6b"
+         id="stop11227" />
+      <stop
+         offset="100%"
+         stop-color="#245347"
+         id="stop11229" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#logoGradient"
+       id="linearGradient11491"
+       x1="-634.00519"
+       y1="1167.6105"
+       x2="-532.15302"
+       y2="1269.4626"
+       gradientTransform="scale(0.95813657,1.0436925)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       id="dropShadow"
+       x="-0.077837841"
+       y="-0.077837841"
+       width="1.1556757"
+       height="1.1962162">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="1.2"
+         id="feGaussianBlur11247" />
+      <feOffset
+         dx="0"
+         dy="1.5"
+         result="offsetblur"
+         id="feOffset11249" />
+      <feComponentTransfer
+         id="feComponentTransfer11253">
+        <feFuncA
+           type="linear"
+           slope="0.4"
+           id="feFuncA11251" />
+      </feComponentTransfer>
+      <feMerge
+         id="feMerge11259">
+        <feMergeNode
+           id="feMergeNode11255" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode11257" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       xlink:href="#logoGradient"
+       id="linearGradient11493"
+       x1="-538.31555"
+       y1="1220.5913"
+       x2="-494.81201"
+       y2="1264.0948"
+       gradientTransform="scale(0.9829086,1.0173886)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       id="filter3870"
+       x="-0.07783784"
+       y="-0.07783784"
+       width="1.1556756"
+       height="1.1962162">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="1.2"
+         id="feGaussianBlur3856" />
+      <feOffset
+         dx="0"
+         dy="1.5"
+         result="offsetblur"
+         id="feOffset3858" />
+      <feComponentTransfer
+         id="feComponentTransfer3862">
+        <feFuncA
+           type="linear"
+           slope="0.4"
+           id="feFuncA3860" />
+      </feComponentTransfer>
+      <feMerge
+         id="feMerge3868">
+        <feMergeNode
+           id="feMergeNode3864" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode3866" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       xlink:href="#logoGradient"
+       id="linearGradient11495"
+       x1="-527.53497"
+       y1="1243.3958"
+       x2="-487.93497"
+       y2="1282.9957"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       id="innerShadow"
+       x="-0.16"
+       y="-0.16"
+       width="1.32"
+       height="1.32">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="2"
+         id="feGaussianBlur11262" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offsetblur"
+         id="feOffset11264" />
+      <feComposite
+         operator="out"
+         in="SourceGraphic"
+         in2="offsetblur"
+         id="feComposite11266" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0   0 0 0 0.3 0"
+         id="feColorMatrix11268" />
+      <feBlend
+         mode="multiply"
+         in2="SourceGraphic"
+         result="innerShadow"
+         id="feBlend11270" />
+    </filter>
+    <linearGradient
+       id="notchGradient"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         stop-color="#2a6253"
+         id="stop11232" />
+      <stop
+         offset="100%"
+         stop-color="#245347"
+         id="stop11234" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11497"
+       x1="-762.53247"
+       y1="811.45526"
+       x2="-757.94995"
+       y2="811.45526"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11499"
+       x1="-772.56116"
+       y1="811.45526"
+       x2="-767.97858"
+       y2="811.45526"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11501"
+       x1="-782.40002"
+       y1="811.45526"
+       x2="-777.81744"
+       y2="811.45526"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11503"
+       x1="-792.61432"
+       y1="811.45538"
+       x2="-788.03174"
+       y2="811.45538"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11505"
+       x1="1913.7771"
+       y1="343.41827"
+       x2="1918.3597"
+       y2="343.41827"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11507"
+       x1="1923.5039"
+       y1="343.41827"
+       x2="1928.0865"
+       y2="343.41827"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11509"
+       x1="1933.5216"
+       y1="343.41827"
+       x2="1938.1041"
+       y2="343.41827"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11511"
+       x1="1913.7775"
+       y1="316.16968"
+       x2="1918.3601"
+       y2="316.16968"
+       gradientTransform="matrix(0.65465367,0,0,1.5275252,0,0.83345886)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11513"
+       x1="1923.5031"
+       y1="316.16962"
+       x2="1928.0857"
+       y2="316.16962"
+       gradientTransform="matrix(0.65465367,0,0,1.5275252,0,0.83398813)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11515"
+       x1="1933.5223"
+       y1="316.16962"
+       x2="1938.1049"
+       y2="316.16962"
+       gradientTransform="matrix(0.65465367,0,0,1.5275252,0,0.83398813)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11517"
+       x1="-792.61462"
+       y1="838.19519"
+       x2="-788.03204"
+       y2="838.19519"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11519"
+       x1="-782.40015"
+       y1="838.19531"
+       x2="-777.81757"
+       y2="838.19531"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11521"
+       x1="-772.56134"
+       y1="838.19531"
+       x2="-767.97876"
+       y2="838.19531"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11523"
+       x1="-762.53308"
+       y1="838.19531"
+       x2="-757.9505"
+       y2="838.19531"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11525"
+       x1="1942.5454"
+       y1="316.16962"
+       x2="1947.1279"
+       y2="316.16962"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#notchGradient"
+       id="linearGradient11527"
+       x1="1942.545"
+       y1="343.41843"
+       x2="1947.1276"
+       y2="343.41843"
+       gradientTransform="scale(0.65465367,1.5275252)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g580"
+     transform="matrix(1.28,0,0,1.28,-147.9698,-112.74628)">
+    <rect
+       style="fill:#37806d;fill-opacity:1;stroke-width:2.51664"
+       id="rect111"
+       width="400"
+       height="400"
+       x="115.60141"
+       y="88.083031"
+       ry="0" />
+    <g
+       id="g3344"
+       transform="matrix(1.3333333,0,0,1.3333333,112.25946,65.337162)">
+      <g
+         id="g11351"
+         transform="matrix(0.36384937,0,0,0.36384937,-24.847803,88.52576)">
+        <g
+           id="g11238"
+           transform="matrix(1.5509618,0,0,1.5509618,148.80093,-282.82641)">
+          <path
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.02862;-inkscape-stroke:none"
+             d="m 298.47795,134.78394 c -16.06028,-0.65994 -124.87013,1.69503 -140.09372,7.02885 -60.659871,21.25312 -97.41179,88.96109 -74.757962,151.16021 19.275942,52.92469 78.043262,87.25099 132.553532,66.36928 28.13592,-10.77826 49.34186,-34.9502 56.69681,-62.96186 0.5905,-2.24893 45.49433,68.55954 45.49433,68.55954 l 36.48024,-1.09687 c 0,0 -75.68389,-107.41078 -75.79407,-110.20629 48.03134,-66.58585 80.7466,-117.46736 80.7466,-117.46736 l -35.47903,-2.40395 c 0,0 -61.43075,92.52333 -66.73278,86.29548 -20.44215,-24.01173 -54.61112,-35.38088 -85.67294,-21.31199 -29.63267,13.42159 -47.64301,49.92071 -31.03162,81.29948 15.42949,28.63481 46.35067,7.29271 46.92508,-4.54345 0,0 -5.74856,3.27956 -10.40191,1.58768 -4.65335,-1.69187 -9.43015,-5.83775 -11.72403,-10.17085 -8.19231,-15.47521 1.67896,-35.30677 17.8099,-42.61298 23.37703,-10.5882 51.27789,3.77665 60.97759,27.4181 12.79865,31.19466 -6.15403,67.15591 -37.35522,79.10842 -38.96845,14.92799 -82.99866,-8.6718 -97.1283,-47.46663 -17.01516,-46.71742 11.26171,-98.81194 57.67316,-115.0729 11.80144,-4.13483 97.27418,-5.99116 109.81874,-5.47571 z"
+             id="path3329" />
+          <path
+             fill="#037161"
+             opacity="1"
+             stroke="none"
+             d="m 84.436836,182.88107 c 5.282149,1.66055 25.880874,12.89733 37.762354,2.72063 14.85765,-9.27164 0.92469,-30.87993 12.85323,-40.44713 12.25131,-4.40851 25.94751,1.29014 26.8561,14.38928 5.48175,32.58438 -22.87953,46.15819 -50.764,40.87318 -11.956686,-2.10463 -21.177206,-9.402 -26.707684,-17.53596 z"
+             id="path3338"
+             class="UnoptimicedTransforms"
+             transform="translate(58.438559,100.47416)"
+             style="fill:#ff9955;fill-opacity:1" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#fefffe"
+         x="58.053013"
+         y="223.37659"
+         id="text2919"><tspan
+           id="tspan2917"
+           x="58.053013"
+           y="223.37659"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Kinet Systems</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#fefffe"
+         x="46.226788"
+         y="241.9151"
+         id="text2923"><tspan
+           id="tspan2921"
+           x="46.226788"
+           y="241.9151"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#e6e6e6">Powering Tomorrow's Technology</tspan></text>
+    </g>
+  </g>
+</svg>
